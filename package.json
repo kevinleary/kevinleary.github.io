@@ -27,7 +27,8 @@
     },
     "scripts": {
         "ws": "ws --spa index.html",
-        "ws:multi": "ws"
+        "ws:about": "ws --spa about.html",
+        "ws:all": "ws"
     },
     "dependencies": {
         "bootstrap": "4.6.0",
